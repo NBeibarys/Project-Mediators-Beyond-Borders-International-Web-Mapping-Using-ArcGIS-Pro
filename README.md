@@ -18,5 +18,5 @@ This project, completed through the Data Science for Sustainable Development (DS
 
 ## Deliverable
 - [View the Interactive Map on MBBI Website](https://mediatorsbeyondborders.org/why-we-are-here/)
-- [![MBBI Web Map Screenshot](mbbi_map_preview.png)](https://mediatorsbeyondborders.org/why-we-are-here/)
+[![MBBI Web Map Screenshot](mbbi_map_preview.png)](https://mediatorsbeyondborders.org/why-we-are-here/)
 
